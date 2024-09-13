@@ -123,3 +123,6 @@ bert-ckpt/**
 
 gpt_ckpt/
 gpt_ckpt/**
+
+zz_nlp/
+zz_nlp/**
