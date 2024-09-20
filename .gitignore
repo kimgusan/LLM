@@ -126,3 +126,8 @@ gpt_ckpt/**
 
 zz_nlp/
 zz_nlp/**
+
+.env
+
+no_github/
+no_github/**
